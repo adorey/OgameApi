@@ -1,0 +1,2 @@
+# OgameApi
+Ogame Python API
